@@ -11,6 +11,8 @@ public class CiTestApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		
+		System.out.println("Hello JUnit Test Case...");
 	}
 
 }
