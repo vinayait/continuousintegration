@@ -15,6 +15,8 @@ public class CiTestApplicationTests {
 		System.out.println("Hello JUnit Test Case...");
 		
 		System.out.println("Added comment on Alienware");
+
+		System.out.println("Added comment on HP Laptop");
 	}
 
 }
